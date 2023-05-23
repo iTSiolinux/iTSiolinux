@@ -1,6 +1,6 @@
 This is iTSiolinux
 
-age between 13-23
+age between 13-23 😃
 likes to play zombsroyale.io , castles.cc , and some games from friv.com
 
 my coding langauge skills:
@@ -15,7 +15,7 @@ everyday i'm learning something new,
 if there is something that you think that could help me get better, 
 tell me!
 
-Mkdir :)
+👾 Mkdir :)
 
 supporting open sources
 and open internet for everyone(check to full meaning at internet.md)
@@ -28,8 +28,8 @@ searching for:
 
 everyday i'm learning something new,
 if there is something that you think that could help me get better,
-tell me!
+tell me! 😝
 
 Mkdir :)
 - to get my profile to check offline, run this:
-gh repo clone iTSiolinux/iTSiolinux
+'''gh repo clone iTSiolinux/iTSiolinux'''
