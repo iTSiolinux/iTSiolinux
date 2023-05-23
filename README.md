@@ -32,4 +32,4 @@ tell me! 😝
 
 Mkdir :)
 - to get my profile to check offline, run this:
-\\\gh repo clone iTSiolinux/iTSiolinux
+  gh repo clone iTSiolinux/iTSiolinux
