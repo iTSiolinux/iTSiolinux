@@ -15,4 +15,8 @@ Join me on this exciting coding adventure, and let's see where the future takes 
 
 ---
 
-*Bio formatted by ChatGPT.*
+<details>
+  <summary>Who worte this?</summary>
+  *Bio formatted by ChatGPT.*
+</details>
+
