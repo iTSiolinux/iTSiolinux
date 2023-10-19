@@ -1,35 +1,18 @@
-This is iTSiolinux
+# Isaac - Passionate Programmer 🚀
 
-age between 13-23 😃
-likes to play zombsroyale.io , castles.cc , and some games from friv.com
+Hey there! I'm Isaac, and I'm on a coding journey through different languages. My ultimate goal? A future in coding (and maybe world domination, who knows? 😁).
 
-my coding langauge skills:
+## About Me
+- 💻 **Coding Enthusiast**: I've dabbled in Python, primarily using the Flask web-server framework. I've also explored the realms of HTML, CSS, and JavaScript for web development. Currently, I'm engrossed in Java, specifically Minecraft plugins. If only there were simpler ways to register commands in Paper Dev 1.20!
 
-Html, Css, Js
-- i built minetrophy.live site, go check!
+- 💔 **Windows Software Critique**: I have a love-hate relationship with Windows software. I can't help but frown at the idea of paying for what could be free services. Money should go into computer hardware and products that truly deserve it.
 
-Python3
-- for the webserver behind the site!
+- 💭 **Dreaming of a Free Internet**: My dream? An internet where access is free, and you only pay for the hardware (plus those rare gems that are worth every cent).
 
-everyday i'm learning something new,
-if there is something that you think that could help me get better, 
-tell me!
+- 📚 **School Days**: I'm also in school, learning the ropes of C# in computer science. And yes, I'm looking at you, Microsoft (C# might not be my favorite, but hey, we're making it work).
 
-👾 Mkdir :)
+Join me on this exciting coding adventure, and let's see where the future takes us! 🌟
 
-supporting open sources
-and open internet for everyone(check to full meaning at internet.md)
-in two words, means 0$ for your code if it is low (less then 5 hour of coding!)
+---
 
-searching for:
-
- 1.18 minecraft server spigot plugin of multi currencies.
-
-
-everyday i'm learning something new,
-if there is something that you think that could help me get better,
-tell me! 😝
-
-Mkdir :)
-- to get my profile to check offline, run this:
-  gh repo clone iTSiolinux/iTSiolinux
+*Bio formatted by ChatGPT.*
